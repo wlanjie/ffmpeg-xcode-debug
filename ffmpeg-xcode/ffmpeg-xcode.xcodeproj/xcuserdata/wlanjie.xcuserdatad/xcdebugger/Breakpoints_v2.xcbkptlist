@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../ffmpeg-3.0.2/libavcodec/aacdec.c"
+            timestampString = "551462053.414803"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "534"
+            endingLineNumber = "534"
+            landmarkName = "latm_decode_init"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../ffmpeg-3.0.2/libavformat/mov.c"
+            timestampString = "551463691.116842"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "817"
+            endingLineNumber = "817"
+            landmarkName = "mov_read_ddts"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../ffmpeg-3.0.2/libavcodec/aacdec_template.c"
+            timestampString = "551508653.5371979"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "3054"
+            endingLineNumber = "3054"
+            landmarkName = "apply_mid_side_stereo"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "aac_decode_frame_int"
+                  moduleName = "ffmpeg_g"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wlanjie/Downloads/ffmpeg-xcode/ffmpeg-3.0.2/libavcodec/aacdec_template.c"
+                  timestampString = "555145487.858615"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "3054"
+                  endingLineNumber = "3054"
+                  offsetFromSymbolStart = "5590">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "aac_decode_frame"
+                  moduleName = "ffmpeg_g"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wlanjie/Downloads/ffmpeg-xcode/ffmpeg-3.0.2/libavcodec/aacdec_template.c"
+                  timestampString = "555145487.8607481"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "3054"
+                  endingLineNumber = "3054"
+                  offsetFromSymbolStart = "6315">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../ffmpeg-3.0.2/libavcodec/aacdec_template.c"
+            timestampString = "551508653.537672"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "3067"
+            endingLineNumber = "3067"
+            landmarkName = "apply_mid_side_stereo"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "aac_decode_frame_int"
+                  moduleName = "ffmpeg_g"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wlanjie/Downloads/ffmpeg-xcode/ffmpeg-3.0.2/libavcodec/aacdec_template.c"
+                  timestampString = "555145487.8657579"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "3067"
+                  endingLineNumber = "3067"
+                  offsetFromSymbolStart = "5738">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "aac_decode_frame"
+                  moduleName = "ffmpeg_g"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wlanjie/Downloads/ffmpeg-xcode/ffmpeg-3.0.2/libavcodec/aacdec_template.c"
+                  timestampString = "555145487.8677551"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "3067"
+                  endingLineNumber = "3067"
+                  offsetFromSymbolStart = "6473">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../ffmpeg-3.0.2/libavcodec/aacsbr_template.c"
+            timestampString = "551468310.934459"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1116"
+            endingLineNumber = "1116"
+            landmarkName = "sbr_make_f_tablelim"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ff_decode_sbr_extension"
+                  moduleName = "ffmpeg_g"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wlanjie/Downloads/ffmpeg-xcode/ffmpeg-3.0.2/libavcodec/aacsbr_template.c"
+                  timestampString = "555769195.434175"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1116"
+                  endingLineNumber = "1116"
+                  offsetFromSymbolStart = "141">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ff_decode_sbr_extension_fixed"
+                  moduleName = "ffmpeg_g"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wlanjie/Downloads/ffmpeg-xcode/ffmpeg-3.0.2/libavcodec/aacsbr_template.c"
+                  timestampString = "555769195.436273"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1116"
+                  endingLineNumber = "1116"
+                  offsetFromSymbolStart = "141">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ffmpeg-xcode/main.c"
+            timestampString = "555145487.458737"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "main"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../ffmpeg-3.0.2/libavformat/mux.c"
+            timestampString = "555151736.377324"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "614"
+            endingLineNumber = "614"
+            landmarkName = "write_packet"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../ffmpeg-3.0.2/libavformat/movenc.c"
+            timestampString = "555769193.567652"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "4355"
+            endingLineNumber = "4355"
+            landmarkName = "ff_mov_write_packet"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../ffmpeg-3.0.2/libavformat/movenc.c"
+            timestampString = "555769193.570624"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "227"
+            endingLineNumber = "227"
+            landmarkName = "mov_write_stss_tag"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../ffmpeg-3.0.2/libavformat/movenc.c"
+            timestampString = "555769193.5709291"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "4729"
+            endingLineNumber = "4729"
+            landmarkName = "mov_write_packet"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../ffmpeg-3.0.2/libavformat/movenc.c"
+            timestampString = "555769193.571164"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "200"
+            endingLineNumber = "200"
+            landmarkName = "mov_write_stsc_tag"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
